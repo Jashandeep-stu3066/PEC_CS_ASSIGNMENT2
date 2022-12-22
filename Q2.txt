@@ -1,0 +1,6 @@
+name = ("Jashandeep Singh Mehra")
+s_id = '22103066'
+dept = 'CSE'
+cgpa = '11.0'
+
+print(f' Hey, {name} Here! \n My SID is {s_id} \n I am from {dept} department and my CGPA is {cgpa}')
